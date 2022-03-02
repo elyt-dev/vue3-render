@@ -1,0 +1,9 @@
+{
+    "extends": ["prettier"],
+    "plugins": ["prettier"],
+    "rules": {
+      "prettier/prettier": "error",
+      "arrow-body-style": "on",
+      "prefer-arrow-callback": "off"
+    }
+  }
